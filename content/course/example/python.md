@@ -5,6 +5,8 @@ type: book
 weight: 20
 ---
 
+{{< figure src=""featured.jpg>}}
+
 Build a foundation in Python.
 
 <!--more-->
